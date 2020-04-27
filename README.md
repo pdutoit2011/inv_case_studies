@@ -7,6 +7,7 @@ https://docs.anaconda.com/anaconda/install/windows/
 
 2. From anaconda prompt:
 navigate to project folder
+
 \conda env create -f environment.yml
 
 3.
