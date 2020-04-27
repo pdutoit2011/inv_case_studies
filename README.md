@@ -21,11 +21,11 @@ navigate to project folder
 
 6. Load notebooks in order and run all cells:
  
-eda_data_preprocessing.ipynb
-pipe_line.ipynb
-pipe_line_gridsearch.ipynb
-application.ipynb
-application_unprocessed.ipynb
+eda_data_preprocessing.ipynb,
+pipe_line.ipynb,
+pipe_line_gridsearch.ipynb,
+application.ipynb,
+application_unprocessed.ipynb,
 application_gridsearch.ipynb
 
 7. The exploratory files are in the appendix folder, for reference only.
