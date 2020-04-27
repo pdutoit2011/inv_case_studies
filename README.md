@@ -8,7 +8,7 @@ navigate to project folder
 >>conda env create -f environment.yml
 
 3.
->>conda activate myenv
+>>conda activate inv5
 
 4.
 >>python pong_cmaes.py
